@@ -10,3 +10,7 @@ Used string formating here also, other way to use geopy library but the results 
 
 Have to clean the data as mostly it was in string format, so used the pandas extensively.
 
+Timing of pulling the data will effect the  Timing column as 
+ Between 11:00 am - 11:00 pm, closing timing will be displayed 
+ After that open time will be displayed on the website 
+ 
